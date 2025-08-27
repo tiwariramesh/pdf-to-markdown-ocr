@@ -23,7 +23,7 @@ A powerful Python script that converts scanned PDF documents to clean, well-form
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/pdf-to-markdown-ocr.git
+   git clone https://github.com/tiwariramesh/pdf-to-markdown-ocr.git
    cd pdf-to-markdown-ocr
    ```
 
